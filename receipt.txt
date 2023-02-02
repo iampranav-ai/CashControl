@@ -1,0 +1,12 @@
+Expense Tracker Receipt
+
+Expense: Coke
+Amount: 200
+
+Expense: Apple
+Amount: 260
+
+Expense: Milk
+Amount: 140
+
+Total Expense: 600
